@@ -17,7 +17,7 @@
         <appender-ref ref="smockin_appender" />
     </logger>
 
-    <logger name="com.smockin.admin.persistence.migration" level="INFO">
+    <logger name="com.smockin.admin.persistence.migration" level="DEBUG">
         <appender-ref ref="smockin_appender" />
     </logger>
 
